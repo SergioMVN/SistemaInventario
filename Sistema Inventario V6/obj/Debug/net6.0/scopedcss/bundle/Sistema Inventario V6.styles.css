@@ -1,0 +1,49 @@
+/* _content/Sistema Inventario V6/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-vfk2q93svv] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-vfk2q93svv] {
+  color: #0077cc;
+}
+
+.btn-primary[b-vfk2q93svv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-vfk2q93svv], .nav-pills .show > .nav-link[b-vfk2q93svv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-vfk2q93svv] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-vfk2q93svv] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-vfk2q93svv] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-vfk2q93svv] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-vfk2q93svv] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
